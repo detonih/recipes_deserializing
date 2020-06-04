@@ -13,7 +13,7 @@ public class ZipCodeTests {
     @Test
     public void testBeverlyHills() {
 
-        // create an object that represent Location class. This will be used to store the returned
+        // we can create an object that represent Location class. This will be used to store the returned
         // values we need to expect, and then we can compare with the return of the api
 
         Location location = given()
